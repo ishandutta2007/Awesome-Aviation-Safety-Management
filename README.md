@@ -64,7 +64,7 @@ This repository tracks the leading commercial SaaS platforms, enterprise EHS sol
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
 - **[ArduPilot](https://github.com/ArduPilot/ardupilot)** [![Stars](https://img.shields.io/github/stars/ArduPilot/ardupilot?style=social)](https://github.com/ArduPilot/ardupilot/stargazers)  
   Leading open-source autopilot software system providing advanced flight safety interlocks, failsafe routines, geo-fencing, and emergency recovery algorithms for uncrewed aerial vehicles (UAVs) and aircraft.
@@ -116,7 +116,7 @@ This repository tracks the leading commercial SaaS platforms, enterprise EHS sol
 
 1. Fork this repository.
 2. Add your SaaS product or open-source tool to `README.md` following the existing format.
-3. Ensure open-source projects include a valid GitHub link and star badge link.
+3. Ensure open-source projects include a valid GitHub link and Stars_Badge link.
 4. Open a Pull Request (PR) with a brief summary of the proposed changes.
 
 ---
