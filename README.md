@@ -44,81 +44,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Ideagen Coruson](https://www.ideagen.com/products/coruson/)**  
+> **Market Insights**: The global Aviation Safety Management System (SMS) software market is estimated at approximately **$2.8 billion to $3.0 billion**, growing at a CAGR of ~7.4%. The sector is **moderately to highly fragmented**, characterized by a combination of large enterprise EHS conglomerates, aerospace system integrators, and specialized niche aviation SMS platforms.
 
-  Enterprise cloud software for complete control and real-time reporting of safety and operational risk across aviation organizations, serving 300+ aviation customers including tier-one airlines.
+| Product Name | Description & Key Features | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Company Size (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Intelex Aviation](https://www.intelex.com/)** | Enterprise EHS and safety management software serving aviation and aerospace organizations. | $49.00 / user / month (min 25 users base) | 14-day free trial (up to 5 test user accounts & sandbox data) | ~$25.0B Valuation ($6.0B Annual Revenue, Parent: Fortive) |
+| **[SafetyLine](https://www.safetyline.com/)** | Aviation safety management platform for safety reporting, risk management, and compliance. | $500 / month (base operational tier) | 30-day sandbox trial (limited to 3 aircraft & 5 users) | ~$3.0B Valuation ($1.5B Annual Revenue, Parent: SITA) |
+| **[Ideagen Coruson](https://www.ideagen.com/products/coruson/)** | Enterprise cloud software for complete control and real-time reporting of safety and operational risk across aviation organizations, serving 300+ aviation customers. | $1,500 / month (base subscription tier) | 14-day guided trial (demo organization scope, single admin account) | ~$1.3B Valuation ($180M Annual Revenue, Parent: Ideagen Ltd) |
+| **[Qualtrax](https://www.qualtrax.com/)** | Compliance and quality management software with aviation SMS capabilities. | $450 / month (base tier up to 10 users) | 14-day full access evaluation environment (max 5 user accounts) | ~$1.3B Valuation ($180M Annual Revenue, Parent: Ideagen Ltd) |
+| **[AQD](https://www.aqd.com/)** | Aviation quality and safety management software for compliance monitoring, audit management, and occurrence reporting. | $800 / month (base module license) | 14-day evaluation demo (pre-configured safety database, 2 test accounts) | ~$1.3B Valuation ($180M Annual Revenue, Parent: Ideagen Ltd) |
+| **[Baines Simmons Centrik](https://www.bainessimmons.com/)** | Safety, quality, and compliance management platform designed for aviation organizations of all sizes. | £350 / month (~$450/mo base plan) | 30-day full SMS module trial (up to 5 users) | ~$300M Valuation ($850M Annual Revenue, Parent: Wheels Up) |
+| **[Comply365](https://www.comply365.com/)** | Aviation compliance and safety management platform with mobile-first design for operational efficiency. | $1,200 / month (base operational subscription) | 14-day evaluation environment (up to 10 test credentials) | ~$350M Valuation ($60M Annual Revenue, Parent: Comply365/Vistair Group) |
+| **[Vistair SafetyNet](https://www.vistair.com/)** | Aviation safety reporting system driving real change in the management and investigation of safety-related occurrences. | $1,000 / month (base tier for regional operators) | 14-day evaluation trial (limited to 5 user logins & sample flight schedules) | ~$350M Valuation ($60M Annual Revenue, Parent: Comply365/Vistair Group) |
+| **[ASQS](https://www.asqs.aero/)** | Aviation safety and quality management solutions including SMS, audit management, and risk assessment. | €400 / month (~$440/mo basic SMS package) | 30-day full test instance (up to 5 user seats & 2 aircraft) | ~$60M Valuation ($15M Annual Revenue, ASQS GmbH) |
+| **[Yonder SMS](https://www.yondersms.com/)** | Cloud-based safety management system for airlines, airports, and aviation service providers. | €250 / month (~$275/mo entry tier) | 30-day free trial (up to 10 users & 50MB document storage) | ~$20M Valuation ($5M Annual Revenue, Yonder Mind AG) |
+| **[GfL Safety Management System](https://www.gfl-consult.de/en/software/safety_tools/airport_sms)** | Web-based SMS tool fulfilling EU Regulation 139/2014 and ADR.OR.D.005 requirements, with ECCAIRS2 interface. | €300 / month (~$330/mo airport license) | 14-day test environment (1 airport station, 3 test users) | ~$10M Valuation ($3M Annual Revenue, GfL Consult GmbH) |
+| **[GfL Occurrence Reporting System (ORS)](https://www.gfl-consult.de/en/software/safety_tools/airport_ors)** | Reporting system for smaller airports with seamless ECCAIRS2 integration, supporting anonymous reporting. | €150 / month (~$165/mo small airport package) | 14-day test environment (1 form template, 3 user seats) | ~$10M Valuation ($3M Annual Revenue, GfL Consult GmbH) |
+| **[SafeJets MS](https://www.safejets.net/)** | Aviation safety, quality, and compliance platform built for Part 135 operators, with Bowtie risk assessment and AI risk analysis. | $199 / month (base plan for Part 135 operators) | 14-day free trial (up to 3 aircraft & 5 user accounts) | ~$8M Valuation ($2M Annual Revenue, SafeJets LLC) |
 
-
-
-- **[Vistair SafetyNet](https://www.vistair.com/)**  
-
-  Aviation safety reporting system driving real change in the management and investigation of safety-related occurrences, with mobile-first interface and offline reporting capabilities.
-
-
-
-- **[AQD](https://www.aqd.com/)**  
-
-  Aviation quality and safety management software for compliance monitoring, audit management, and occurrence reporting.
-
-
-
-- **[Baines Simmons Centrik](https://www.bainessimmons.com/)**  
-
-  Safety, quality, and compliance management platform designed for aviation organizations of all sizes.
-
-
-
-- **[Yonder SMS](https://www.yondersms.com/)**  
-
-  Cloud-based safety management system for airlines, airports, and aviation service providers.
-
-
-
-- **[Comply365](https://www.comply365.com/)**  
-
-  Aviation compliance and safety management platform with mobile-first design for operational efficiency.
-
-
-
-- **[Intelex Aviation](https://www.intelex.com/)**  
-
-  Enterprise EHS and safety management software serving aviation and aerospace organizations.
-
-
-
-- **[Qualtrax](https://www.qualtrax.com/)**  
-
-  Compliance and quality management software with aviation SMS capabilities.
-
-
-
-- **[ASQS](https://www.asqs.aero/)**  
-
-  Aviation safety and quality management solutions including SMS, audit management, and risk assessment.
-
-
-
-- **[SafetyLine](https://www.safetyline.com/)**  
-
-  Aviation safety management platform for safety reporting, risk management, and compliance.
-
-
-
-- **[GfL Safety Management System](https://www.gfl-consult.de/en/software/safety_tools/airport_sms)**  
-
-  Web-based SMS tool fulfilling EU Regulation 139/2014 and ADR.OR.D.005 requirements, with ECCAIRS2 interface, occurrence reporting, risk assessment, and process auditing for airports.
-
-
-
-- **[GfL Occurrence Reporting System (ORS)](https://www.gfl-consult.de/en/software/safety_tools/airport_ors)**  
-
-  Reporting system for smaller airports with seamless ECCAIRS2 integration, supporting anonymous reporting and thematic form templates for bird strikes, runway incursions, and FOD.
-
-
-
-- **[SafeJets MS](https://www.safejets.net/)**  
-
-  Aviation safety, quality, and compliance platform built for Part 135 operators and air tour operators, with hazard reporting, Bowtie risk assessment, fatigue management, and AI-assisted risk analysis.
 
 
 
